@@ -19,3 +19,17 @@
 | 🕳 **Exploitation de vulnérabilités zero-day** | Attaques ciblant des failles non corrigées dans les composants logiciels | 🔴 Critique |
 | 🔢 **Attaque par force brute** | Tentatives répétées pour deviner les identifiants utilisateurs | 🟡 Modéré |
 | 📤 **Exfiltration de données** | Extraction non autorisée de données sensibles depuis la plateforme | 🔴 Critique |
+
+
+
+# Plan d'action pour la mise en conformité
+
+| Principe                      | Action spécifique                                                        |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Transparence**               | Rédiger et publier une politique de confidentialité                        |
+| **Limitation des finalités**   | Décrire précisément chaque usage des données collectées                  |
+| **Minimisation des données**   | Réviser les formulaires pour éliminer les champs inutiles                 |
+| **Exactitude**                 | Mettre en place un système de mise à jour des informations par les utilisateurs |
+| **Limitation de conservation** | Implémenter une politique de suppression automatique                      |
+| **Intégrité et confidentialité** | Mettre en place un chiffrement des données et contrôle d'accès            |
+| **Responsabilité**             | Documenter et mettre en place un système de traçabilité des traitements    |
