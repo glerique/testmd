@@ -33,3 +33,20 @@
 | **Limitation de conservation** | Implémenter une politique de suppression automatique                      |
 | **Intégrité et confidentialité** | Mettre en place un chiffrement des données et contrôle d'accès            |
 | **Responsabilité**             | Documenter et mettre en place un système de traçabilité des traitements    |
+
+
+
+# Stratégie de Gestion des Données Personnelles
+
+1. **Collecte et consentement**  
+   Consentement explicite avant collecte et possibilité de retrait à tout moment.
+
+2. **Stockage sécurisé**  
+   Chiffrement des données et séparation des données sensibles avec pseudonymisation.
+
+3. **Politique de rétention**  
+   Durées de conservation définies et effacement automatique des données obsolètes.
+
+4. **Contrôle d'accès**  
+   Principe du moindre privilège, journalisation des accès et vérification des droits des utilisateurs.
+
