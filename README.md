@@ -50,3 +50,14 @@
 4. **Contrôle d'accès**  
    Principe du moindre privilège, journalisation des accès et vérification des droits des utilisateurs.
 
+   | **Composant**                    | **Solution recommandée**                                           | **Justification**                                                                 |
+|-----------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Framework et langage**          | PHP/Symfony, Python/Django, Node.js/Express 🖥️                      | Communautés actives, mises à jour de sécurité régulières, patches rapides 🔒        |
+| **Base de données**               | PostgreSQL ou MySQL 🗄️                                            | Fonctionnalités de sécurité natives, support du chiffrement 🔐                     |
+| **Serveur web**                   | Nginx ou Apache avec configuration renforcée 🌐                    | Support HTTPS, headers de sécurité, filtrage de requêtes 🛡️                        |
+| **Protocole de communication**    | HTTPS avec TLS 1.2+ 🔒                                             | Protection contre l'interception des communications et les attaques MITM 🌍        |
+| **Conteneurisation**              | Docker avec images officielles 🐳                                   | Isolation des services, réduction de la surface d'attaque 🚀                       |
+| **Système d'authentification**    | Keycloak, Auth0 🔑                                                 | Standards de l'industrie et évolution continue 📈                                  |
+| **Gestion des secrets**           | HashiCorp Vault, AWS KMS 🗝️                                        | Stockage centralisé et sécurisé des clés et secrets 🛡️                             |
+
+
