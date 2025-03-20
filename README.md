@@ -9,7 +9,7 @@
 | 🌍 **Visiteurs Anonymes**  | Peuvent naviguer sur certaines parties publiques du site.     | ⚪ **Très Limité**      |
 
 | **Menace**                          | **Description** | **Criticité** |
-|-------------------------------------|----------------------------------------------------------------|------------|
+|-------------------------------------|----------------------------------------------------------------|--------------------|
 | 🕵️ **Usurpation d'identité** | Compromission de comptes utilisateur (formateur, administrateur, apprenant) | 🔴 Critique |
 | 🔓 **Fuite de données** | Accès non autorisé aux informations sensibles (emails, mots de passe, données personnelles) | 🔴 Critique |
 | 💉 **Attaques par injection (SQLi, XSS)** | Exploitation de failles dans les formulaires et champs de saisie | 🔴 Critique |
